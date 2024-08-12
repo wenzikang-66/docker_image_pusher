@@ -1,1 +1,15 @@
 registry.k8s.io/ingress-nginx/controller:v1.10.1
+nginx:1.20
+nginx:1.22
+nginx:latest
+mysql:8.0
+grafana/grafana:latest
+prom/node-exporter:latest
+prom/prometheus:latest
+registry.k8s.io/ingress-nginx/kube-webhook-cergen:v20230407
+registry.k8s.io/ingress-nainx/controller:v1.0.8
+kubernetssui/metrics-scraper:v1.0.8
+kubernetssui/dashboard:v2.7.0
+gcr.io/cadvusor/cadvisor:v0.47.0
+registry.k8s.io/metrics-server/metrics-server:v0.6.3
+php:8-apache
